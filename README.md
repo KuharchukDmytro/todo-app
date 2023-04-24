@@ -1,5 +1,5 @@
-# MyBike landing page project
-In this project i created a pixel perfect landing page for MyBike company.
+# ToDo app with API project
+In this project i created a ToDo app with abilities to add, delete, rename, toggle, toggle all and sort todos.
 
 Stack of used technologies:
 
